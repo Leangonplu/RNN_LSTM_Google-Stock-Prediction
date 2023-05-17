@@ -12,3 +12,5 @@ This project was designed to understand and predict changes in Google stock pric
 - Design of an RNN with LSTM layers for time series forecasting
 - Model training and evaluation
 - Visualization of model predictions
+
+![Image1]( https://github.com/Leangonplu/RNN_LSTM_Google-Stock-Prediction/blob/main/Google_image.jpg)
